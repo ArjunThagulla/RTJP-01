@@ -1,1 +1,5 @@
-{\rtf1}
+
+class Test{
+
+	System.out.println("Arjun");
+}
